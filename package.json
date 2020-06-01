@@ -1,0 +1,10 @@
+{
+  "name": "as-js-value-variable-and-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.0.1"
+  },
+  "devDependencies": {}
+}
